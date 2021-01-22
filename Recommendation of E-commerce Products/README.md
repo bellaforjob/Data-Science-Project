@@ -1,5 +1,6 @@
 # Recommendation of E-commerce Products
 
+![Recommendation of E-commerce Products](https://github.com/bellaforjob/pics/ecommerce.jpg?raw=true)
 ## Introduction 
 #### E-commerce provides a huge market to the enterprises, compared to traditional trade, E-commerce is easier and lower investment, so it attracted countless people to join the business, but meanwhile, it increases the competition to each other. To customers, e-commerce is the most convenient way to shop. In some areas where the epidemic has occurred, online shopping is also the only way to avoid infection through contact. Although e-commerce is so convenient, after all, it has the limitations of online browsing after all:
 #### Miss your favorite product.
