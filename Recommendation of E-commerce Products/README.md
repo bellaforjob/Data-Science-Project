@@ -9,7 +9,7 @@
 #### Missing the surrounding goods of the purchased/viewed products.
 #### Lack of personal service experience.
 #### Lack of loyalty.
-#### In summary, the recommendation system came into being. It provides solutions to all the above problems and gives users a better shopping experience. This project is a sample to show how to create a recommentdation system and how does it works.
+#### In summary, the recommendation system came into being. It provides solutions to all the above problems and gives users a better shopping experience. This project is a sample to show how to create a recommendation system and how does it works.
 
 ## Dataset 
 #### I used a data set that describes the on-line products been view or sale by E-commerce events in a large multi category store: eCommerce behavior data from a large multi-category store (https://www.kaggle.com/mkechinov/ecommerce-behavior-data-from-multi-category-store)
