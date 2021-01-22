@@ -1,5 +1,5 @@
 # Forecasting Avocado Price
-
+![Forecasting Avocado Price]https://github.com/bellaforjob/Data-Science-Project/blob/master/pics/GlobalAvo.jpg
 ## Introduction 
 #### Avocado is known as ‘Green Gold’ in world trade.  Avocados are a great source of vitamins C, E, K, and B-6, as well as riboflavin, niacin, folate, pantothenic acid, magnesium, and potassium. They also provide lutein, beta-carotene, and omega-3 fatty acids. Although most of the calories in an avocado come from fat, but that fat is very healthy, especially Hass avocados. 
 #### Hass avocados are higher in fat than other varieties, which gives them a richer taste and smoother, creamier texture. The taste, benefit of health and food culture make avocados become an important food/fruit to people around the world. It is the main daily food in South America. In most recent years, the avocado sales market is increasing in Asia as well. 
